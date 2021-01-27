@@ -7,11 +7,5 @@ categories: jekyll update
 
 # Hello!
 
-This is a quick test.
-
-```python
-import os
-
-for count, x in enumerate('Hello'):
-  print(count, x)
-```
+This a Jekyll Post.
+You probably want to look at my (about me)[https://www.paddez.com/about/] page.
