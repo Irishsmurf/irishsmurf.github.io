@@ -8,4 +8,4 @@ categories: jekyll update
 # Hello!
 
 This a Jekyll Post.
-You probably want to look at my (about me)[https://www.paddez.com/about/] page.
+You probably want to look at my [about me](https://www.paddez.com/about/) page.
